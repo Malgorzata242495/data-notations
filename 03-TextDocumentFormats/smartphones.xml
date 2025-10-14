@@ -11,7 +11,7 @@
     </smartphone>
     <smartphone brand="Apple" model="IPhone 13" releaseYear="2021">
         <specs>
-            <screenSize unit="inch>"6.1</screenSize>
+            <screenSize unit="inch">6.1</screenSize>
             <batteryCapacity unit="mAh">3227</batteryCapacity>
             <storage unit="GB">128</storage>
             <camera unit="MP">12</camera>
