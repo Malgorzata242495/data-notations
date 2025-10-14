@@ -1,0 +1,36 @@
+{
+  "ticketNumber": "31495861",
+  "isETicket": true,
+  "passenger": {
+    "name": null,
+    "idDocumentRequired": true
+  },
+  "journey": {
+    "departure": {
+      "station": "Poznan Glowny",
+      "datetime": "2016-08-13T17:40:00+02:00",
+      "platform": null
+    },
+    "arrival": {
+      "station": "Warsaw Central",
+      "datetime": "2016-08-13T20:36:00+02:00",
+      "platform": null
+    },
+    "via": ["Wrzesnia","Kutno"],
+    "train": {
+      "number": null,
+      "type": "TLK/Intercity"
+    },
+    "carriage": 2,
+    "seat": null
+  },
+  "price": 61,
+  "currency": "PLN",
+  "fareDetails": [
+    "Base fare: 61 PLN",
+    "E-ticket valid for passenger, date, train and seat indicated",
+    "Must be accompanied by photo ID",
+    "Refund rules may apply (see carrier)"
+  ],
+  "source": "Sample PKP Intercity e-ticket (Scribd example)."
+}
