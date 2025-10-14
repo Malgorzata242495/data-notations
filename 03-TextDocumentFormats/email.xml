@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<email>
+	<header>
+		<sender>
+			<name>Anna Kowalska</name>
+			<address>anna.kowalska@example.com</address>
+		</sender>
+	</header>
+</email>
