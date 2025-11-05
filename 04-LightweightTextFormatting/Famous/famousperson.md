@@ -23,4 +23,4 @@ Pitbull is also known for his energetic and motivational persona, collaborating 
 * 2024–2025 – Continues music and business ventures with _Trackhouse Entertainment_
 
 [If you want to find more information about Pitbull](https://en.wikipedia.org/wiki/Pitbull_(rapper))
-[or if you want buy a ticket for his concerts](https://www.ticketmaster.com/pitbull-tickets/artist/985347)
+[or if you want to buy a ticket for his concerts](https://www.ticketmaster.com/pitbull-tickets/artist/985347)

@@ -1,0 +1,43 @@
+h1, h2, p, th, td, div {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+title {
+    text-align: center;
+}
+h2 {
+    background-color: aquamarine;
+}
+
+td, th {
+    padding: 5px;
+    border: 5px;
+    border-radius: 5%;
+    }
+input[type=input], input[type=textarea], input[type=select] {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+input[type=submit] {
+    background-color: azure;
+    color: blueviolet;
+    border-radius: 10%;
+    }
+
+input:hover {
+    background-color: bisque;
+    cursor: pointer;
+}
+
+a {
+    color: deeppink;
+    text-decoration: dotted;
+    }
+
+    img {
+        border: 10px;
+        border-width: 5px;
+        border-style: dotted;
+        border-color: firebrick;                                                                            0
+    }
